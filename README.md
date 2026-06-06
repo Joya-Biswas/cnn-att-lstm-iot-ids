@@ -78,19 +78,6 @@ The notebook is designed for **Google Colab** with a free T4 GPU.
 - [N-BaIoT](https://www.kaggle.com/datasets/mkashifn/nbaiot-dataset)
 - [IoT-23](https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis)
 
----
-
-## Citation
-
-```bibtex
-@misc{biswas2026cnnattlstm,
-  title  = {An Uncertainty-Aware Attention-Enhanced CNN-LSTM Framework for
-            IoT Intrusion Detection with Cross-Environment Generalization},
-  author = {Biswas, Joya and Jania, Rutaban and Fahim},
-  year   = {2026},
-  note   = {Institute of Information Technology, Jahangirnagar University}
-}
-```
 
 ---
 
